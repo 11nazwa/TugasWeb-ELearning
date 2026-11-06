@@ -15,7 +15,7 @@ Website satu halaman bertema judul novel populer Indonesia.
 ## Screenshot
 
 ### Tampilan awal
-![Tampilan awal](screenshot/tampilan-awal.png)
+![Tampilan awal](screenshots/tampilan-awal.png)
 
 ### Setelah tombol diklik
-![Setelah klik](screenshot/tampilan-setelah-klik.png)
+![Setelah klik](screenshots/tampilan-setelah-klik.png)
